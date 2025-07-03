@@ -1,0 +1,17 @@
+{
+  "name": "js_playground",
+  "version": "1.0.0",
+  "description": "JS Play Ground",
+  "homepage": "https://github.com/jeetendra/JS_playground#readme",
+  "license": "ISC",
+  "author": "Jeetendra Singh",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.0",
+    "babel-jest": "^30.0.4",
+    "jest": "^30.0.4"
+  }
+}
